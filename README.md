@@ -52,4 +52,4 @@ curl --request POST \
 ### This endpoint provides a quick way to assess the age and creation date of multiple domains at once. Use it for domain research, competitor analysis, or to verify the legitimacy of websites! 🕵️‍♂️🌍
 
 
-# [Check Ahrefs API](https://rapidapi.com/opendatapoint-opendatapoint-default/api/whois-lookup-api/playground)
+# [Check WHOIS Lookup API](https://rapidapi.com/opendatapoint-opendatapoint-default/api/whois-lookup-api/playground)
